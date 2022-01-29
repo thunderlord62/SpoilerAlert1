@@ -119,7 +119,7 @@
                 var patreonUrl = patreonUserName ? core.utilities.settings.supportUploader.patreonSiteUrl + "/" + patreonUserName : "";
 
                 $.post(
-                    'https://spoilerprotection.wecdev.com/api/Category/ExportCategory',
+                    'chrome-extension://eelacikjiplnmdingehjfdjcfegclmkg/data.xml',
                     {
                         uploaderKofiUrl: kofiUrl,
                         uploaderPatreonUrl: patreonUrl,
@@ -163,13 +163,13 @@
 
                 //NOTE: most used languages to the top of the list
                 var preferredLanguages = new Array();
-                preferredLanguages.push("Nederlands");
-                preferredLanguages.push("Português");
-                preferredLanguages.push("Italiano");
-                preferredLanguages.push("Français");
-                preferredLanguages.push("Español");
-                preferredLanguages.push("Magyar");
-                preferredLanguages.push("Deutsch");
+                // preferredLanguages.push("Nederlands");
+                // preferredLanguages.push("Português");
+                // preferredLanguages.push("Italiano");
+                // preferredLanguages.push("Français");
+                // preferredLanguages.push("Español");
+                // preferredLanguages.push("Magyar");
+                // preferredLanguages.push("Deutsch");
                 preferredLanguages.push("English");                
 
                 for(var i = 0; i < preferredLanguages.length; i++) {
