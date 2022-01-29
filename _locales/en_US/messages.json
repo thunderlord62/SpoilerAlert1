@@ -6,13 +6,13 @@
       "message": "Add white list url"
    },
    "all_rights_reserved": {
-      "message": "&copy; Spoiler Protection 2.0 - 2019. All Rights Reserved."
+      "message": "&copy; BBH Spoil Alert"
    },
    "app_description": {
-      "message": "Spoiler Protection 2.0 - NO MORE SPOILERS :)"
+      "message": "BBH Spoil Alert - NO MORE SPOILERS :)"
    },
    "app_name": {
-      "message": "Spoiler Protection 2.0"
+      "message": "BBH Spoil Alert"
    },
    "are_you_sure_to_import_category": {
       "message": "Are you sure to import this category: "
@@ -21,7 +21,7 @@
       "message": "Ask the Facebook group"
    },
    "available_for_mobile": {
-      "message": "From NOW \u003Cu>Spoiler Protection 2.0\u003C/u> is available on \u003Cb>Mobile\u003C/b>, use with \u003Cu>Firefox for Android\u003C/u>"
+      "message": "From NOW \u003Cu>BBH Spoil Alert\u003C/u> is available on \u003Cb>Mobile\u003C/b>, use with \u003Cu>Firefox for Android\u003C/u>"
    },
    "background_color": {
       "message": "Background color"
@@ -168,7 +168,7 @@
       "message": "Import category success"
    },
    "install_success": {
-      "message": "Spoiler Protection 2.0 was successfully installed!"
+      "message": "BBH Spoil Alert was successfully installed!"
    },
    "introducing_features": {
       "message": "Introducing main features"
@@ -285,19 +285,19 @@
       "message": "Share"
    },
    "share_earn_money": {
-      "message": "Share and earn money"
+      "message": ""
    },
    "share_list_on_facebook": {
-      "message": "Share list on facebook"
+      "message": ""
    },
    "share_list_on_twitter": {
-      "message": "Share list on twitter"
+      "message": "r"
    },
    "share_warning": {
-      "message": "Please share categories with only for ONE topic (one tv show, one movie...), write at least 5 keyword, and don't spoil :)\u003Cbr/>We reserve the right to not approve your shared category."
+      "message": ""
    },
    "share_your_category_with_other_people": {
-      "message": "Share your category with other people"
+      "message": ""
    },
    "show": {
       "message": "Show"
@@ -318,7 +318,7 @@
       "message": "Spoiler context"
    },
    "spoiler_context_description": {
-      "message": "On the major sites (twitter, facebook, reddit) we solved to hide the whole context what surrounds the spoiler, but we can't do it on every single site on the internet.\u003Cbr/>With this function you can personalize your favorite sites to solve this problem."
+      "message": ""
    },
    "spoiler_count": {
       "message": "Spoiler count"
@@ -336,31 +336,31 @@
       "message": "Sport"
    },
    "subscribe_text": {
-      "message": "\u003Cb>Subscribe\u003C/b> and don't miss the news about the upcoming features and new extensions"
+      "message": ""
    },
    "success": {
       "message": "Success"
    },
    "support_kofi": {
-      "message": "Buy me a Ko-fi :)"
+      "message": ""
    },
    "support_kofi_uploder": {
-      "message": "Or buy her/him a Ko-fi"
+      "message": ""
    },
    "support_patreon": {
-      "message": "Donate &#36;1/month"
+      "message": ""
    },
    "support_patreon_uploder": {
-      "message": "Support uploader via Patreon"
+      "message": ""
    },
    "support_text": {
-      "message": "free for those who can't afford it, supported by those who can. "
+      "message": "TEAM BBH CREATION"
    },
    "support_the_uploader": {
-      "message": "You can support the uploader: "
+      "message": ""
    },
    "tell_us": {
-      "message": "Tell us"
+      "message": ""
    },
    "tv_show": {
       "message": "TV show"
@@ -369,10 +369,10 @@
       "message": "Type"
    },
    "update_contains_the_following_changes": {
-      "message": "This update contains the following changes:"
+      "message": ""
    },
    "update_success": {
-      "message": "Spoiler Protection 2.0 was successfully updated!"
+      "message": "BBH Spoil Alert was successfully updated!"
    },
    "uploader": {
       "message": "Uploader"
@@ -396,13 +396,13 @@
       "message": "Warning"
    },
    "we_know_we_can_do_better": {
-      "message": "\u003Cb>We know we can do better.\u003C/b>\u003Cbr/>If you have new function idea, any suggestion or would like to report a bug"
+      "message": ""
    },
    "we_love_new_friends": {
-      "message": "We \u003Cimg width='64' height='64' src='../images/icon128.png' alt='' title=''> new friends!"
+      "message": ""
    },
    "we_love_old_friends": {
-      "message": "We \u003Cimg width='64' height='64' src='../images/icon128.png' alt='' title=''> old friends!"
+      "message": ""
    },
    "welcome": {
       "message": "Welcome"
@@ -411,15 +411,15 @@
       "message": "White list"
    },
    "yeeeeej": {
-      "message": "Yeeeeej"
+      "message": "Yeeeee"
    },
    "yes": {
       "message": "Yes"
    },
    "your_kofi_username": {
-      "message": "Your ko-fi username"
+      "message": ""
    },
    "your_patreon_username": {
-      "message": "Your patreon username"
+      "message": ""
    }
 }

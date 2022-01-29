@@ -285,6 +285,8 @@
 
                 var categorySpoilerText = $categorySpoilerText.val().trimString();
                 var categorySpoilerList = categorySpoilerText.split(",").removeEmptyOrWhiteSpaceStringsFromArray();
+                
+
                 if (core.utilities.utils.isNullOrEmpty(categorySpoilerText) || core.utilities.utils.isNullOrEmpty(categorySpoilerList)) {
                     $.alert({
                         type: 'red',
@@ -320,7 +322,8 @@
                 if (!app.ui.modules.spoilerCategoriesController.isCategoryEditing) {
                     categoryId = core.utilities.utils.newGuid();
                     //just show the confirm dialog everything else will run after this anyway
-                    app.ui.modules.spoilerCategoriesController.showShareConfirm(categoryId, categoryName, categoryLanguage, categoryType, categorySpoilerText);
+                    // app.ui.modules.spoilerCategoriesController.showShareConfirm(categoryId, categoryName, categoryLanguage, categoryType, categorySpoilerText);
+                    window.alert("New Category Added Succefully")
                 }
 
                 $categorySpoilerText.val("");

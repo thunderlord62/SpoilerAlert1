@@ -27,7 +27,7 @@
    "name": "__MSG_app_name__",
    "permissions": [ "http://*/*", "https://*/*", "storage", "tabs" ],
    "short_name": "__MSG_app_name__",
-   "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "2.6.5",
+   // "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0",
    "web_accessible_resources": [ "images/icons/import.png", "images/icons/kofi.png", "images/icons/movie.png", "core/ui/modules/openPatreonUrl/images/patreon.png" ]
 }

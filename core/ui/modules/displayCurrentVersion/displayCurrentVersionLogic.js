@@ -14,7 +14,7 @@
 
             getCurrentVersion: function () {
                 //return core.utilities.settings.version;
-                return "BBH";
+                return "2.6.5";
             }
 
             //#endregion
