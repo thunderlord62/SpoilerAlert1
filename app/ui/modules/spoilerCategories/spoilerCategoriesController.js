@@ -272,8 +272,7 @@
 
                 browser.i18n.setAllI18nStrings($container);
             },
-
-
+/*yasgh*/
             addCategoryOnClick: function () {
                 var $categoryId = app.ui.modules.spoilerCategoriesController.$categoryId;
                 var $categoryName = app.ui.modules.spoilerCategoriesController.$categoryName;
